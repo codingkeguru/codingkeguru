@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresher <br>I'm Ai Data scientist <br>I completed Bachelors of Computer Application<br>i'm currently learning Ai models 
+I'm a fresher <br>I'm Ai Data scientist <br>I completed Bachelors of Computer Application<br>I'm currently learning Ai models 
 
 
 ## 🌐 Socials:
